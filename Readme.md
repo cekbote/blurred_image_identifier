@@ -30,7 +30,7 @@ important parameter for identifying blurred images.
 Now these three features are inputs to the CNN, and the output is just a single sigmoid activation neuron. If the output
 is below 0.5 its considered as a focused image else a blurred image. The CNN can be visualised as follows:
 
-![cnn_image](CNN.png)
+![cnn_image](https://github.com/cekbote/blurred_image_identifier/blob/main/CNN.png)
 
 
 ### Accuracy of the model
